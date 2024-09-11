@@ -7,3 +7,72 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Change the font size of headings */
+h1 {
+    font-size: 24px; /* Adjust the size as needed */
+}
+
+h2 {
+    font-size: 22px; /* Adjust the size as needed */
+}
+
+h3 {
+    font-size: 20px; /* Adjust the size as needed */
+}
+
+h4 {
+    font-size: 18px; /* Adjust the size as needed */
+}
+
+h5 {
+    font-size: 16px; /* Adjust the size as needed */
+}
+
+h6 {
+    font-size: 14px; /* Adjust the size as needed */
+}
+
+/* Change the font size of paragraphs */
+p {
+    font-size: 16px; /* Adjust the size as needed */
+}
+
+/* Change the font size of blockquotes */
+blockquote {
+    font-size: 18px; /* Adjust the size as needed */
+}
+
+/* Change the font size of code blocks */
+pre, code {
+    font-size: 14px; /* Adjust the size as needed */
+}
+
+/* Change the font size of ordered lists (enumerations) */
+ol {
+    font-size: 16px; /* Adjust the size as needed */
+}
+
+/* Change the font size of unordered lists (items) */
+ul {
+    font-size: 16px; /* Adjust the size as needed */
+}
+
+/* Optionally, change the font size of list items */
+li {
+    font-size: 16px; /* Adjust the size as needed */
+}
+
+/* Change the font size of links */
+a {
+    font-size: 16px; /* Adjust the size as needed */
+}
+
+/* Change the font size of tables */
+table {
+    font-size: 16px; /* Adjust the size as needed */
+}
+
+th, td {
+    font-size: 16px; /* Adjust the size as needed */
+}

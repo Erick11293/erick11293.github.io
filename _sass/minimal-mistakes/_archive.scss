@@ -124,7 +124,7 @@
 .list__item {
   .page__meta {
     margin: 0 0 4px;
-    font-size: 0.6em;
+    font-size: $type-size-3;
   }
 }
 
@@ -194,7 +194,7 @@
 
   .page__meta {
     margin: 0 0 4px;
-    font-size: 0.6em;
+    font-size: $type-size-3;
   }
 
   .page__meta-sep {
@@ -246,8 +246,8 @@
 
 .feature__item {
   position: relative;
-  margin-bottom: 2em;
-  font-size: 1.125em;
+  margin-bottom: $type-size-2;
+  font-size: $type-size-3;
 
   @include breakpoint($small) {
     float: inline-start;
@@ -290,7 +290,7 @@
     margin-inline: 0;
     width: 100%;
     clear: both;
-    font-size: 1.125em;
+    font-size: $type-size-3;
 
     a.btn::before {
       content: '';
@@ -355,7 +355,7 @@
     margin-inline: 0;
     width: 100%;
     clear: both;
-    font-size: 1.125em;
+    font-size: $type-size-3;
 
     .archive__item {
       float: inline-start;
@@ -394,7 +394,7 @@
   .feature__wrapper {
     .archive__item-title {
       margin-top: 0.25em;
-      font-size: 1em;
+      font-size:  $type-size-3;
     }
   }
 
@@ -402,7 +402,7 @@
   .feature__item--left,
   .feature__item--center,
   .feature__item--right {
-    font-size: 1em;
+    font-size:  $type-size-3;
   }
 }
 

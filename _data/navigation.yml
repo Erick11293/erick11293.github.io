@@ -1,10 +1,8 @@
 # main links
 main:
+  - title: "Research"
+    url: /research/
   - title: "Resources"
-  - url: _pages/resources.md
-  - title: "Publications"
-  - url: _pages/publications.md
+    url: /resources/
   - title: "CV"
-  - url: _pages/cv.md
-  - title: "About me"
-  - url: _pages/about.md
+    url: /cv/
