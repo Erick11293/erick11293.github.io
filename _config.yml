@@ -26,7 +26,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/main_photo.jpg"
+logo                     : #"/assets/images/main_photo.jpg"
 masthead_title           : "Welcome to my personal web page!"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -119,9 +119,12 @@ author:
   location         : "Palo Alto, CA"
   email            :
   links:
-    - label: "Email"
+    - label: "erickom@stanford.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:erick.ore.matos@gmail.com"
+      url: "mailto:erickom@stanford.edu"
+    - label: "erick.ore.matos@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:erickom@stanford.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Erick11293"
