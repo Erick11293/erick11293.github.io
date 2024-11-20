@@ -22,6 +22,8 @@ author_profile: true
 
 ##### Non-published
 
+- [Back to normal? Strategic Pricing After Covid-19 in Retail Gasoline](https://raw.githubusercontent.com/Erick11293/erick11293.github.io/master/assets/files/non-published/retail_gasoline.pdf)
+
 - [Credit and business cycles, searching dependencies](https://raw.githubusercontent.com/Erick11293/erick11293.github.io/master/assets/files/non-published/credit_cycles.pdf)
     - Coauthors: Johar Arrieta
 
