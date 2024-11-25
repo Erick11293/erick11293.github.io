@@ -12,6 +12,6 @@ author_profile: true
 - [Econthaki class - Intro to programming in Python](https://github.com/Erick11293/repo-intro/)
 
 ##### Presentations
-- [Time Series: ARIMA](https://raw.githubusercontent.com/Erick11293/erick11293.github.io/master/assets/files/classes/time-series-ar.pdf): Based in Chapter 2 of [Canova (2007)](https://press.princeton.edu/books/hardcover/9780691115047/methods-for-applied-macroeconomic-research?srsltid=AfmBOoqNJtEI5hbmzJmc1DO9LjpeofDAOPwywswVRTgEdqLhe6D_jkSh)
-- [Time Series: VAR](https://raw.githubusercontent.com/Erick11293/erick11293.github.io/master/assets/files/classes/time-series-var.pdf): Based in Chapter 3 of [Canova (2007)](https://press.princeton.edu/books/hardcover/9780691115047/methods-for-applied-macroeconomic-research?srsltid=AfmBOoqNJtEI5hbmzJmc1DO9LjpeofDAOPwywswVRTgEdqLhe6D_jkSh)
-- [Presentation on heterogenous agent models](https://raw.githubusercontent.com/Erick11293/erick11293.github.io/master/assets/files/classes/ha_presentation.pdf): Based in [Aiyagari (1994)](https://www.jstor.org/stable/2118417?seq=23)
+- [Time Series: ARIMA](https://erick11293.github.io/assets/files/classes/time-series-ar.pdf): Based in Chapter 2 of [Canova (2007)](https://press.princeton.edu/books/hardcover/9780691115047/methods-for-applied-macroeconomic-research?srsltid=AfmBOoqNJtEI5hbmzJmc1DO9LjpeofDAOPwywswVRTgEdqLhe6D_jkSh)
+- [Time Series: VAR](https://erick11293.github.io/assets/files/classes/time-series-var.pdf): Based in Chapter 3 of [Canova (2007)](https://press.princeton.edu/books/hardcover/9780691115047/methods-for-applied-macroeconomic-research?srsltid=AfmBOoqNJtEI5hbmzJmc1DO9LjpeofDAOPwywswVRTgEdqLhe6D_jkSh)
+- [Presentation on heterogenous agent models](https://erick11293.github.io/assets/files/classes/ha_presentation.pdf): Based in [Aiyagari (1994)](https://www.jstor.org/stable/2118417?seq=23)

@@ -22,12 +22,12 @@ author_profile: true
 
 ##### Non-published
 
-- [Back to normal? Strategic Pricing After Covid-19 in Retail Gasoline](https://raw.githubusercontent.com/Erick11293/erick11293.github.io/master/assets/files/non-published/retail_gasoline.pdf)
+- [Back to normal? Strategic Pricing After Covid-19 in Retail Gasoline](https://erick11293.github.io/assets/files/non-published/retail_gasoline.pdf)
 
-- [Credit and business cycles, searching dependencies](https://raw.githubusercontent.com/Erick11293/erick11293.github.io/master/assets/files/non-published/credit_cycles.pdf)
+- [Credit and business cycles, searching dependencies](https://erick11293.github.io/assets/files/non-published/credit_cycles.pdf)
     - Coauthors: Johar Arrieta
 
-- [Balance Sheet, Exchange rate and Delinquency in Medium-Sized Firms](https://raw.githubusercontent.com/Erick11293/erick11293.github.io/master/assets/files/non-published/exchange_rate_and_delinquency.pdf)
+- [Balance Sheet, Exchange rate and Delinquency in Medium-Sized Firms](https://erick11293.github.io/assets/files/non-published/exchange_rate_and_delinquency.pdf)
     - Coauthors: Alessandro Tomarchio
 
-- [The Stone-Weierstrass Theorem: A constructive proof](https://raw.githubusercontent.com/Erick11293/erick11293.github.io/master/assets/files/non-published/stw.pdf)
+- [The Stone-Weierstrass Theorem: A constructive proof](https://erick11293.github.io/assets/files/non-published/stw.pdf)
