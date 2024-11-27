@@ -25,7 +25,6 @@ author_profile: true
 - [Back to normal? Strategic Pricing After Covid-19 in Retail Gasoline](https://erick11293.github.io/assets/files/non-published/retail_gasoline.pdf)
 
 - [Credit and business cycles, searching dependencies](https://erick11293.github.io/assets/files/non-published/credit_cycles.pdf)
-    - Coauthors: Johar Arrieta
 
 - [Balance Sheet, Exchange rate and Delinquency in Medium-Sized Firms](https://erick11293.github.io/assets/files/non-published/exchange_rate_and_delinquency.pdf)
     - Coauthors: Alessandro Tomarchio
